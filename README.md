@@ -1,2 +1,3 @@
-# crsytalsharp-cqrs-example
-Crystal Sharp framework - CQRS Example
+# Crystal Sharp - CQRS Example
+***
+CQRS code example.
