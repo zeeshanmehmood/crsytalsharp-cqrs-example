@@ -1,2 +1,2 @@
 # Crystal Sharp - CQRS Example
-CQRS code example.
+`CQRS` code example.
